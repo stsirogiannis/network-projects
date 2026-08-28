@@ -133,7 +133,7 @@ interface GigabitEthernet0/1
 | File | Description |
 |---|---|
 | `Zone-Based_Policy_Firewall.pkt` | Cisco Packet Tracer topology file |
-| `topology.png` | Network diagram screenshot *(add your own)* |
+| `topology.png` | Network diagram screenshot |
 
 ## How to Open
 
