@@ -3,7 +3,6 @@
 A Cisco Packet Tracer project that converts a standard router into a **stateful firewall** using Cisco's Zone-Based Policy Firewall (ZPF) architecture, protecting a company server from unauthorized access.
 
 ![Topology](topology.png)
-*(add a screenshot of the full Packet Tracer topology here — see note at the bottom)*
 
 ## Overview
 
