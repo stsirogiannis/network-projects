@@ -94,11 +94,11 @@ Confirmed that both students and teachers could only browse the website hosted o
 
 | File | Description |
 |---|---|
-| `ACL_Excersice.pkt` | Cisco Packet Tracer topology file |
+| `ACL.pkt` | Cisco Packet Tracer topology file |
 | `topology.png` | Network diagram |
 
 ## How to Open
 
 1. Install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) (free with a Cisco Networking Academy account).
-2. Download `ACL_Excersice.pkt` from this folder.
+2. Download `ACL.pkt` from this folder.
 3. Open it directly in Packet Tracer to explore the topology and device configs.
