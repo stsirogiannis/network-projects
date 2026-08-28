@@ -132,12 +132,12 @@ interface GigabitEthernet0/1
 
 | File | Description |
 |---|---|
-| `Level_5_Zone-Based_Policy_Firewall.pkt` | Cisco Packet Tracer topology file |
+| `Zone-Based_Policy_Firewall.pkt` | Cisco Packet Tracer topology file |
 | `topology.png` | Network diagram screenshot *(add your own)* |
 
 ## How to Open
 
 1. Install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) (free with a Cisco Networking Academy account).
-2. Download `Level_5_Zone-Based_Policy_Firewall.pkt` from this folder.
+2. Download `Zone-Based_Policy_Firewall.pkt` from this folder.
 3. Open it directly in Packet Tracer to explore the topology and device configs.
 
